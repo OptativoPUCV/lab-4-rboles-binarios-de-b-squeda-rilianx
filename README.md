@@ -6,7 +6,7 @@ Implementando un Mapa Ordenado (TreeMap)
 ---
 **Antes de comenzar**
 
-* Importe el repositorio desde su cuenta en repl.it (si no tiene siga [este tutorial](https://chartreuse-goal-d5c.notion.site/C-mo-comenzar-con-los-labs-b4dd8c7abc5a425d8f25e2eaa060e5b5?pvs=4))
+* Importe el repositorio desde Visual Studio Code (si no tiene siga [este tutorial](https://chartreuse-goal-d5c.notion.site/C-mo-comenzar-con-los-labs-b4dd8c7abc5a425d8f25e2eaa060e5b5?pvs=4))
 * Sólo puede modificar los archivos *treemap.c* y *main.c*
 * Para testear sus códigos debe abrir un terminal (shell) y ejecutar el comando `./test.sh`
 * Verifique que sus cambios se hayan subido a este repositorio
